@@ -1,0 +1,2 @@
+Poisoning the ARP table entries of a device and then forwarding them through your machine is one unethical way of capturing the traffic from the target machine.
+In simple terms, we will replace the client’s MAC address in the default gateway’s ARP cache with the attacker’s MAC address. We will do the same in the client’s MAC address, replacing the default gateway’s MAC address with the attacker’s MAC address. As a result, every packet destined to the client from the default gateway back and forth will be sent through the attacker’s machine

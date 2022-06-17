@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "11a696a2b80209bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ff4c58af085d347",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Elastic/Cyber Kill chain/Installation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc793359296ba720",
+    "type": "split",
+    "children": [
+      {
+        "id": "60e6666af13c83f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b58c4df954c9747",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "21274c5cf2332078",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "892a94de73834f04",
+    "type": "split",
+    "children": [
+      {
+        "id": "32a01cd6ed8c0f05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daf657448bc6d26c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Elastic/Cyber Kill chain/Installation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4b2ee18eddf7c1d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "509d4591159d65ad",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4ff4c58af085d347",
+  "lastOpenFiles": [
+    "Elastic/Cyber Kill chain/Installation.md",
+    "Elastic/Cyber Kill chain/Exploitation.md",
+    "Elastic/Cyber Kill chain/Delivery.md",
+    "Elastic/Cyber Kill chain/cyber kill chain.md",
+    "Usefull links and tools/tools and links.md",
+    "Elastic/Rules.md",
+    "Work/CG/todo.md",
+    "Work/CG/request.md",
+    "Work/CG/pytania na rozmowę.md",
+    "Elastic/Cyber Kill chain/Weaponization.md"
+  ]
+}

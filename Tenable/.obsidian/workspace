@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "61eb2928738d0c04",
+    "type": "split",
+    "children": [
+      {
+        "id": "908655b808f8ff81",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "skrypt.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c0f85e68631dfc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8f3512ad5a9c8cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "767ae4a4f1ca0ea5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b463206410649a12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5107650756836
+  },
+  "right": {
+    "id": "c125c7a813bc7737",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca20f0cead4c9b83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abf3ce4e103bb4ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "skrypt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "908655b808f8ff81",
+  "lastOpenFiles": [
+    "skrypt.md",
+    "prezentacja skrypt.md",
+    "traditional no creds.md",
+    "agent scan.md",
+    "Untitled.md",
+    "Nessus Scanning presentation script.md",
+    "traditional with creds.md",
+    "pytania moje.md",
+    "Scanning.md",
+    "non-credentialed scan.md"
+  ]
+}

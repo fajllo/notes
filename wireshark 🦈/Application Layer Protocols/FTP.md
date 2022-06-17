@@ -1,0 +1,6 @@
+
+Since the internet came into existence, we have been working with the file transfer protocol (FTP). FTP uses TCP over port *21* or *20* (by default) to initiate and transfer files over a designated channel. There are only two types channel **command channel** (port 21) and **data channel** (port 20). The command channel is used to send and receive the commands and their responses. The data channel is used to send and receive data between the client and the server. However, you will observe random port numbers used to transfer TCP data segments from your client machine.
+
+There are two types of mode a client can use to communicate with a server: *active* and *passive*. In earlier versions of FTP server applications, active mode was enabled by default, but in the latest versions of FTP server applications, passive mode is enabled by default. For understanding these modes in detail, let’s use the following scenario
+
+Reassembling the #FTP data stream is easy because apart from the data, there is nothing that is transmitted. There is no code or command that gets appended to the packets. To reassemble the TCP stream of FTP packets, *just right-click on the selected packet and choose the Follow TCP Stream option to view.*
