@@ -4,6 +4,6 @@
 2.  [[Weaponization]] 
 3.  [[Delivery]] 
 4.  [[Exploitation]]
-5. Installation 
-6. Command & Control 
+5. [[Installation]] 
+6. [[Command & Control ]]
 7. Actions on the Objective

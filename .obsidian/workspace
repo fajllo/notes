@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Elastic/Cyber Kill chain/Installation.md",
+            "file": "Elastic/Cyber Kill chain/Actions on the Objective.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elastic/Cyber Kill chain/Installation.md",
+                "file": "Elastic/Cyber Kill chain/Actions on the Objective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "4ff4c58af085d347",
   "lastOpenFiles": [
-    "Elastic/Cyber Kill chain/Installation.md",
-    "Elastic/Cyber Kill chain/Exploitation.md",
-    "Elastic/Cyber Kill chain/Delivery.md",
+    "Elastic/Cyber Kill chain/Actions on the Objective.md",
     "Elastic/Cyber Kill chain/cyber kill chain.md",
+    "Elastic/Cyber Kill chain/Command & Control.md",
+    "Elastic/Cyber Kill chain/Installation.md",
+    "Elastic/Cyber Kill chain/Delivery.md",
+    "Elastic/Cyber Kill chain/Exploitation.md",
     "Usefull links and tools/tools and links.md",
     "Elastic/Rules.md",
     "Work/CG/todo.md",
-    "Work/CG/request.md",
-    "Work/CG/pytania na rozmowę.md",
-    "Elastic/Cyber Kill chain/Weaponization.md"
+    "Work/CG/request.md"
   ]
 }
