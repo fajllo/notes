@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4ff4c58af085d347",
+        "id": "e50a70cf699f533a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Elastic/Cyber Kill chain/Actions on the Objective.md",
+            "file": "Usefull links and tools/tools and links.md",
             "mode": "source",
             "source": false
           }
@@ -60,34 +60,9 @@
     "type": "split",
     "children": [
       {
-        "id": "32a01cd6ed8c0f05",
+        "id": "7cb1c9f59421f6df",
         "type": "tabs",
         "children": [
-          {
-            "id": "daf657448bc6d26c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Elastic/Cyber Kill chain/Actions on the Objective.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "e4b2ee18eddf7c1d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
           {
             "id": "509d4591159d65ad",
             "type": "leaf",
@@ -95,26 +70,56 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "daf657448bc6d26c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Usefull links and tools/tools and links.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "32a01cd6ed8c0f05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4b2ee18eddf7c1d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "4ff4c58af085d347",
+  "active": "e50a70cf699f533a",
   "lastOpenFiles": [
-    "Elastic/Cyber Kill chain/Actions on the Objective.md",
-    "Elastic/Cyber Kill chain/cyber kill chain.md",
-    "Elastic/Cyber Kill chain/Command & Control.md",
-    "Elastic/Cyber Kill chain/Installation.md",
-    "Elastic/Cyber Kill chain/Delivery.md",
-    "Elastic/Cyber Kill chain/Exploitation.md",
     "Usefull links and tools/tools and links.md",
-    "Elastic/Rules.md",
-    "Work/CG/todo.md",
-    "Work/CG/request.md"
+    "BTLO/Deep Blue.md",
+    "2022-06-06.md",
+    "Elastic/Hunting Concepts, Methodologies, and Techniques/general.md",
+    "Elastic/Hunting Concepts, Methodologies, and Techniques/Missing data.md",
+    "Elastic/Diamond model.md",
+    "Elastic/The Intelligence Pipeline.md",
+    "Elastic/General model.md",
+    "Elastic/elastic.md",
+    "Elastic/Cyber Kill chain/Untitled.md"
   ]
 }
