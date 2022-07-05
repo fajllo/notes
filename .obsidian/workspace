@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Usefull links and tools/tools and links.md",
+            "file": "SOC/SOC1/network data analyse tools.md",
             "mode": "source",
             "source": false
           }
@@ -43,7 +43,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Usefull links and tools/tools and links.md",
+                "file": "SOC/SOC1/network data analyse tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,19 +107,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 162
   },
   "active": "e50a70cf699f533a",
   "lastOpenFiles": [
-    "Usefull links and tools/tools and links.md",
-    "BTLO/Deep Blue.md",
-    "2022-06-06.md",
-    "Elastic/Hunting Concepts, Methodologies, and Techniques/general.md",
-    "Elastic/Hunting Concepts, Methodologies, and Techniques/Missing data.md",
-    "Elastic/Diamond model.md",
-    "Elastic/The Intelligence Pipeline.md",
-    "Elastic/General model.md",
+    "SOC/SOC1/network data analyse tools.md",
+    "SOC/SOC1/Basic.md",
+    "courses/courses.md",
     "Elastic/elastic.md",
-    "Elastic/Cyber Kill chain/Untitled.md"
+    "Elastic/Diamond model.md",
+    "Tips/red team.md",
+    "Tips/regex.md",
+    "Work/Kadaster/Tenable.md",
+    "Work/Kadaster/tofdo.md",
+    "Elastic/Intruduction to ELK Stack/info.md"
   ]
 }

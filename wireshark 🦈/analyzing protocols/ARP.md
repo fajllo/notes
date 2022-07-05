@@ -1,0 +1,2 @@
+ARP - adres resolution protocol 
+Address Resolution Protocol (ARP) – protokół sieciowy umożliwiający mapowanie logicznych adresów warstwy sieciowej (warstwa 3) na fizyczne adresy warstwy łącza danych (2). Protokół ten nie ogranicza się tylko do kojarzenia adresów IP z adresami MAC stosowanymi w sieciach Ethernet,
