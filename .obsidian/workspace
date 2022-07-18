@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "Work/Entergy/QC.md"
+            "file": "courses/learning path.md"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Entergy/QC.md",
+                "file": "courses/learning path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
   },
   "active": "6aa1584a955210e9",
   "lastOpenFiles": [
+    "courses/learning path.md",
     "Work/Entergy/QC.md",
     "Untitled Kanban 4.md",
     "Work/Entergy/31-05-2022.md",
@@ -118,7 +119,6 @@
     "Azure/sc200/defender.md",
     "Azure/sentinel/test.md",
     "Azure/sentinel/sentinel.md",
-    "Untitled Kanban 2.md",
-    "Untitled Kanban 1.md"
+    "Untitled Kanban 2.md"
   ]
 }
