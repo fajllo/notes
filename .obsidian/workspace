@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e50a70cf699f533a",
+        "id": "95e97ce64afd4eba",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Tips/regex.md",
-            "mode": "source",
-            "source": false
+            "file": "Untitled Kanban 1.md"
           }
         }
       }
@@ -40,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "regex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips/regex.md",
+                "file": "Untitled Kanban 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,19 +105,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261
+    "width": 261,
+    "collapsed": true
   },
-  "active": "e50a70cf699f533a",
+  "active": "95e97ce64afd4eba",
   "lastOpenFiles": [
-    "Tips/regex.md",
+    "Untitled Kanban 1.md",
+    "Work/Entergy/QC.md",
+    "Work/Entergy/Untitled.md",
+    "Untitled Kanban.md",
+    "Work/CG/E.md",
+    "Work/CG/todo.md",
+    "Work/CG/request.md",
+    "Work/CG/pytania na rozmowę.md",
     "Work/CG/what I do.md",
-    "linux/file ssytem.md",
-    "linux/Untitled.md",
-    "linux/linux.md",
-    "Splunk/SPL.md",
-    "KQL (Kusto)/operators.md",
-    "Splunk/basic.md",
-    "courses/courses.md",
-    "DLP/DLP.md"
+    "linux/kali/nmap.md"
   ]
 }

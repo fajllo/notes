@@ -4,5 +4,7 @@
   "obsidian-kanban",
   "obsidian-git",
   "obsidian-admonition",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-image-toolkit",
+  "obsidian-rich-links"
 ]
