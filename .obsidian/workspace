@@ -7,9 +7,11 @@
         "id": "6aa1584a955210e9",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Untitled Kanban 2.md"
+            "file": "Azure/sentinel/sentinel.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban 2.md",
+                "file": "Azure/sentinel/sentinel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +112,7 @@
   },
   "active": "6aa1584a955210e9",
   "lastOpenFiles": [
+    "Azure/sentinel/sentinel.md",
     "Untitled Kanban 2.md",
     "Work/Entergy/QC.md",
     "Work/Entergy/Untitled.md",
@@ -118,7 +121,6 @@
     "Work/CG/E.md",
     "Work/CG/todo.md",
     "Work/CG/request.md",
-    "Work/CG/pytania na rozmowę.md",
-    "Work/CG/what I do.md"
+    "Work/CG/pytania na rozmowę.md"
   ]
 }
