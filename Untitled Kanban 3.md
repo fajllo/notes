@@ -6,8 +6,8 @@ kanban-plugin: basic
 
 ## todo
 
-- [ ] pokazać jak się robi to 3% QC
-- [ ] ogólnie pokazac jak się robi QC
+- [ ] pokazać jutro jak się robi te 3% do sprawdzenia
+- [ ] pokazać ogólnie jak się robi całe qc
 
 
 ## done
