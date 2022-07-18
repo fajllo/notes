@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "95e97ce64afd4eba",
+        "id": "6aa1584a955210e9",
         "type": "leaf",
         "state": {
           "type": "kanban",
           "state": {
-            "file": "Untitled Kanban 1.md"
+            "file": "Untitled Kanban 2.md"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban 1.md",
+                "file": "Untitled Kanban 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +108,17 @@
     "width": 261,
     "collapsed": true
   },
-  "active": "95e97ce64afd4eba",
+  "active": "6aa1584a955210e9",
   "lastOpenFiles": [
-    "Untitled Kanban 1.md",
+    "Untitled Kanban 2.md",
     "Work/Entergy/QC.md",
     "Work/Entergy/Untitled.md",
+    "Untitled Kanban 1.md",
     "Untitled Kanban.md",
     "Work/CG/E.md",
     "Work/CG/todo.md",
     "Work/CG/request.md",
     "Work/CG/pytania na rozmowę.md",
-    "Work/CG/what I do.md",
-    "linux/kali/nmap.md"
+    "Work/CG/what I do.md"
   ]
 }

@@ -13,6 +13,7 @@ kanban-plugin: basic
 - [ ] ustawić filte w kolumnie A zeby tylko żółte kolorki pokazało
 - [ ] Microsofty można pominąć
 - [ ] no i otrzymujemy ostateczną listę którą trzba sprawdzić
+- [ ] przejść mniej wiecej z chłopakami po liście QC
 
 
 ## Done
