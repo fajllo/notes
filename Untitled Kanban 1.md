@@ -6,7 +6,10 @@ kanban-plugin: basic
 
 ## ToDo
 
-- [ ] run a script to select 3% of DNE
+- [ ] pobrać DNE z sharepointa
+- [ ] wrzucić pobrane DNE do folderu End of Month/QC
+- [ ] puścić skrypt quality check.py (sktyp zaznaczy w dne na żołto rowy które trzeba sprawdzić jeszcze raz) output zaotanie zapisnay do pliku QC_DNE
+- [ ] uploadować QC DNE na sharepointa
 
 
 ## Done
