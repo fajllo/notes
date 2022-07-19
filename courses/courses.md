@@ -8,3 +8,16 @@
 8. [ ] https://app.pluralsight.com/paths/skills/security-event-triage-skill -> SOC Path
 9. [ ] https://app.pluralsight.com/paths/skill/web-security-testing-with-burp-suite -> burp siut
 10. [ ] 
+
+
+nowa kolejność
+1. [ ] KQL się nauczyć
+2.  [ ] to tak wcisnąć kiedyś przeczytać te dokumenty z Azura
+3. [ ] Zrobić ten kurs online z Elastica
+4. [ ] poglądac coś o splunku 
+
+jeszcze zmiana planów:
+1. Basic of splunk 
+2. splunk administration
+3. dokumentacja z azura 
+4. linux windows coś tam ogarnąć ->securty related

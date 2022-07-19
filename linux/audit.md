@@ -1,0 +1,3 @@
+https://docs.nxlog.co/userguide/integrate/linux-audit.html?gclid=CjwKCAjwt7SWBhAnEiwAx8ZLaieeSQxSkkygtdFEpyEfuHKKL6IAR6dTqw11ov5mRbKU0Nu80cxSbBoC9GkQAvD_BwE#audit-rules
+
+/etc/audit
