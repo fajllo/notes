@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6aa1584a955210e9",
+        "id": "e8279cfee8ccbabc",
         "type": "leaf",
         "state": {
           "type": "kanban",
@@ -108,17 +108,17 @@
     "width": 261,
     "collapsed": true
   },
-  "active": "6aa1584a955210e9",
+  "active": "e8279cfee8ccbabc",
   "lastOpenFiles": [
     "courses/learning path.md",
+    "courses/courses.md",
     "Work/Entergy/QC.md",
+    "Excalidraw/Drawing 2022-07-19 11.16.23.excalidraw.md",
     "Untitled Kanban 4.md",
     "Work/Entergy/31-05-2022.md",
     "Work/Entergy/Untitled.md",
     "Untitled Kanban 3.md",
     "Azure/sc200/defender.md",
-    "Azure/sentinel/test.md",
-    "Azure/sentinel/sentinel.md",
-    "Untitled Kanban 2.md"
+    "Azure/sentinel/test.md"
   ]
 }
