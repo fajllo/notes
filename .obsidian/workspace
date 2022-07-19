@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "courses/courses.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "courses/courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,12 +109,12 @@
   },
   "active": "5d10d00ec24f5488",
   "lastOpenFiles": [
+    "courses/courses.md",
     "conflict-files-obsidian-git.md",
     "wireshark 🦈/OSI layers.md",
     "linux/linux.md",
     "SOC/SOC1/network data analyse tools.md",
     "SOC/SOC1/Basic.md",
-    "courses/courses.md",
     "Elastic/elastic.md",
     "Elastic/Diamond model.md",
     "Tips/red team.md",
