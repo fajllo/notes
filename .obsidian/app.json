@@ -4,6 +4,11 @@
   "promptDelete": false,
   "defaultViewMode": "source",
   "alwaysUpdateLinks": true,
+<<<<<<< HEAD
+  "showLineNumber": true,
+  "showFrontmatter": true
+=======
   "showFrontmatter": false,
   "showLineNumber": true
+>>>>>>> origin/master
 }
