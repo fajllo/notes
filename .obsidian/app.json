@@ -3,5 +3,7 @@
   "livePreview": true,
   "promptDelete": false,
   "defaultViewMode": "source",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "showFrontmatter": true
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SOC/SOC1/network data analyse tools.md",
+            "file": "wireshark 🦈/OSI layers.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 218
   },
   "right": {
     "id": "892a94de73834f04",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOC/SOC1/network data analyse tools.md",
+                "file": "wireshark 🦈/OSI layers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,27 +90,15 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "32a01cd6ed8c0f05",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e4b2ee18eddf7c1d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 162
+    "width": 288
   },
   "active": "e50a70cf699f533a",
   "lastOpenFiles": [
+    "wireshark 🦈/OSI layers.md",
+    "linux/linux.md",
     "SOC/SOC1/network data analyse tools.md",
     "SOC/SOC1/Basic.md",
     "courses/courses.md",
@@ -118,8 +106,6 @@
     "Elastic/Diamond model.md",
     "Tips/red team.md",
     "Tips/regex.md",
-    "Work/Kadaster/Tenable.md",
-    "Work/Kadaster/tofdo.md",
-    "Elastic/Intruduction to ELK Stack/info.md"
+    "Work/Kadaster/Tenable.md"
   ]
 }
