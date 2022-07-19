@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e8279cfee8ccbabc",
+        "id": "e2ea05c64e0f30a5",
         "type": "leaf",
         "state": {
           "type": "kanban",
@@ -51,7 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 218
   },
   "right": {
     "id": "892a94de73834f04",
@@ -88,37 +88,22 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "32a01cd6ed8c0f05",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e4b2ee18eddf7c1d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 261,
-    "collapsed": true
+    "width": 288
   },
-  "active": "e8279cfee8ccbabc",
+  "active": "e2ea05c64e0f30a5",
   "lastOpenFiles": [
     "courses/learning path.md",
+    "wireshark 🦈/OSI layers.md",
     "courses/courses.md",
-    "Work/Entergy/QC.md",
-    "Excalidraw/Drawing 2022-07-19 11.16.23.excalidraw.md",
-    "Untitled Kanban 4.md",
-    "Work/Entergy/31-05-2022.md",
-    "Work/Entergy/Untitled.md",
-    "Untitled Kanban 3.md",
-    "Azure/sc200/defender.md",
-    "Azure/sentinel/test.md"
+    "conflict-files-obsidian-git.md",
+    "linux/linux.md",
+    "SOC/SOC1/network data analyse tools.md",
+    "SOC/SOC1/Basic.md",
+    "Elastic/elastic.md",
+    "Elastic/Diamond model.md",
+    "Tips/red team.md"
   ]
 }
