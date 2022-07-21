@@ -21,14 +21,20 @@ kanban-plugin: basic
 
 
 
-## certfication 
+## certfication
 
 - [ ] [ ] sc-200
 - [ ] burp cert professional
+- [ ] eCIR - incident response
 
 
 ## completed ccerts
 
+- [ ] az-900
+- [ ] sc-900
+- [ ] az-104
+- [ ] splunk fundamental
+- [ ] intro to VM
 
 
 
