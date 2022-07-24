@@ -21,3 +21,8 @@
 	</div>
 </a></div>
 
+https://d3fend.mitre.org/dao/artifact/d3f:LocalResourceAccess/ -> miter defend
+
+https://github.com/Intellisec-Solutions/Sentinel2D3FEND
+
+https://www.xmind.net/m/WwtB/#-> linux command list 
