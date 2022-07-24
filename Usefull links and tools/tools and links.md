@@ -25,4 +25,27 @@ https://d3fend.mitre.org/dao/artifact/d3f:LocalResourceAccess/ -> miter defend
 
 https://github.com/Intellisec-Solutions/Sentinel2D3FEND
 
-https://www.xmind.net/m/WwtB/#-> linux command list 
+https://www.xmind.net/m/WwtB/# -> linux command list 
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://tdm.socprime.com/signup/cyber-library/ " target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://tdm.socprime.com/images/favicon.ico?ver=5.3.4.2')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">SOC Prime Platform</h1>
+		<p class="rich-link-card-description">
+		Join SOC Prime Platform for collaborative cyber defense, threat hunting, and threat discovery to boost your detection and response capabilities.
+		</p>
+		<p class="rich-link-href">
+		https://tdm.socprime.com/signup/cyber-library/ 
+		</p>
+	</div>
+</a></div>
+
+
+
+-
+
+
+> SOC prime platform 
