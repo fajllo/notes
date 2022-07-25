@@ -54,4 +54,59 @@
 		</p>
 	</div>
 </a></div>
+4.
+DLP intro
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://app.pluralsight.com/library/courses/getting-started-data-loss-prevention/table-of-contents" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://app.pluralsight.com/favicon.ico')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">Sign In | Pluralsight</h1>
+		<p class="rich-link-card-description">
+		
+		</p>
+		<p class="rich-link-href">
+		https://app.pluralsight.com/library/courses/getting-started-data-loss-prevention/table-of-contents
+		</p>
+	</div>
+</a></div>
+
+5.
+  
+Microsoft Information Protection: Implementing Data Loss Prevention
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://app.pluralsight.com/library/courses/microsoft-information-protection-data-loss-prevention-cert/table-of-contents" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://app.pluralsight.com/favicon.ico')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">Sign In | Pluralsight</h1>
+		<p class="rich-link-card-description">
+		
+		</p>
+		<p class="rich-link-href">
+		https://app.pluralsight.com/library/courses/microsoft-information-protection-data-loss-prevention-cert/table-of-contents
+		</p>
+	</div>
+</a></div>
+
+
+6.
+Incydent response play bo
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://www.publicpower.org/system/files/documents/Public-Power-Cyber-Incident-Response-Playbook.pdf" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://docs.google.com/viewer?embedded=true&url=https%3A%2F%2Fwww.publicpower.org%2Fsystem%2Ffiles%2Fdocuments%2FPublic-Power-Cyber-Incident-Response-Playbook.pdf')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title"></h1>
+		<p class="rich-link-card-description">
+		
+		</p>
+		<p class="rich-link-href">
+		https://www.publicpower.org/system/files/documents/Public-Power-Cyber-Incident-Response-Playbook.pdf
+		</p>
+	</div>
+</a></div>
 
