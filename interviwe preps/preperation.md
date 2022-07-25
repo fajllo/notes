@@ -115,4 +115,24 @@ Splunk top 50 threats
 https://media-exp1.licdn.com/dms/document/C561FAQGSIpLusfEKMg/feedshare-document-pdf-analyzed/0/1658035243032?e=1659571200&v=beta&t=hJ6DQybF-bGzyGLcuH1BGx7kxm3VDrKgjwDaqNtovoI
 
 8.
+
 https://app.pluralsight.com/paths/certificate/microsoft-security-operations-analyst-sc-200
+
+9. AZ-104 short
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://media.whizlabs.com/website/Azure-104.pdf" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://docs.google.com/viewer?embedded=true&url=https%3A%2F%2Fmedia.whizlabs.com%2Fwebsite%2FAzure-104.pdf')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title"></h1>
+		<p class="rich-link-card-description">
+		
+		</p>
+		<p class="rich-link-href">
+		https://media.whizlabs.com/website/Azure-104.pdf
+		</p>
+	</div>
+</a></div>
+
+

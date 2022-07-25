@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "interviwe preps/EY.md",
+            "file": "interviwe preps/preperation.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interviwe preps/EY.md",
+                "file": "interviwe preps/preperation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,8 @@
   },
   "active": "e2ea05c64e0f30a5",
   "lastOpenFiles": [
-    "interviwe preps/EY.md",
     "interviwe preps/preperation.md",
+    "interviwe preps/EY.md",
     "Usefull links and tools/tools and links.md",
     "courses/learning path.md",
     "wireshark 🦈/OSI layers.md",
