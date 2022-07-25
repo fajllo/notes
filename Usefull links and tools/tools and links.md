@@ -23,9 +23,43 @@
 
 https://d3fend.mitre.org/dao/artifact/d3f:LocalResourceAccess/ -> miter defend
 
-https://github.com/Intellisec-Solutions/Sentinel2D3FEND
 
-https://www.xmind.net/m/WwtB/# -> linux command list 
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://github.com/Intellisec-Solutions/Sentinel2D3FEND" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://opengraph.githubassets.com/ace70aa37cdecc74c27930f1194b68d18e0960add751e3672a55c3545ae6d9d4/Intellisec-Solutions/Sentinel2D3FEND')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">GitHub - Intellisec-Solutions/Sentinel2D3FEND: This code snippet retrieves Azure Sentinel rules that are mapped to MITRE ATT&CK Framework and generates the related MITRE D3FEND defenses</h1>
+		<p class="rich-link-card-description">
+		This code snippet retrieves Azure Sentinel rules that are mapped to MITRE ATT&amp;amp;CK Framework and generates the related MITRE D3FEND defenses - GitHub - Intellisec-Solutions/Sentinel2D3FEND: T...
+		</p>
+		<p class="rich-link-href">
+		https://github.com/Intellisec-Solutions/Sentinel2D3FEND
+		</p>
+	</div>
+</a></div>
+
+
+
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://www.xmind.net/m/WwtB/#" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://s3.amazonaws.com/xmindshare/preview/WwtB-hwuhEnD-08859.png')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">LINUX Commands</h1>
+		<p class="rich-link-card-description">
+		Shell Job Control / Basic File Operations / Directory Operations / File Viewing / File Creation and Editing / File Properties / File Location / File Text Manipulation / File Compression and Packaging / File Comparison / Printing / Spell Checking / Disks and Filesystems / Backups and Remote Storage / Viewing Processes / check / Controlling Processes / Scheduling Jobs / Logins, Logouts, and Shutdowns / Users and Their Environment / User Account Management / Group Management / Host Information / Host Location / Network Connections / Email / Web Browsing / Usenet News / Instant Messaging / Screen Output / Math and Calculations / Dates and Times / Graphics and Screensavers / Audio / Video / Network
+		</p>
+		<p class="rich-link-href">
+		https://www.xmind.net/m/WwtB/#
+		</p>
+	</div>
+</a></div>
+
+ -> linux command list 
 
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://tdm.socprime.com/signup/cyber-library/ " target="_blank">
 	<div class="rich-link-image-container">
