@@ -93,7 +93,7 @@ Microsoft Information Protection: Implementing Data Loss Prevention
 
 
 6.
-Incydent response play bo
+Incydent response play book
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://www.publicpower.org/system/files/documents/Public-Power-Cyber-Incident-Response-Playbook.pdf" target="_blank">
 	<div class="rich-link-image-container">
 		<div class="rich-link-image" style="background-image: url('https://docs.google.com/viewer?embedded=true&url=https%3A%2F%2Fwww.publicpower.org%2Fsystem%2Ffiles%2Fdocuments%2FPublic-Power-Cyber-Incident-Response-Playbook.pdf')">
@@ -110,3 +110,9 @@ Incydent response play bo
 	</div>
 </a></div>
 
+7.
+Splunk top 50 threats
+https://media-exp1.licdn.com/dms/document/C561FAQGSIpLusfEKMg/feedshare-document-pdf-analyzed/0/1658035243032?e=1659571200&v=beta&t=hJ6DQybF-bGzyGLcuH1BGx7kxm3VDrKgjwDaqNtovoI
+
+8.
+https://app.pluralsight.com/paths/certificate/microsoft-security-operations-analyst-sc-200
