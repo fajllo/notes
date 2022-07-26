@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "interviwe preps/preperation.md",
+            "file": "interviwe preps/EY.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interviwe preps/preperation.md",
+                "file": "interviwe preps/EY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "e2ea05c64e0f30a5",
   "lastOpenFiles": [
-    "interviwe preps/preperation.md",
     "interviwe preps/EY.md",
-    "Usefull links and tools/tools and links.md",
-    "courses/learning path.md",
-    "wireshark 🦈/OSI layers.md",
-    "courses/courses.md",
-    "conflict-files-obsidian-git.md",
-    "linux/linux.md",
-    "SOC/SOC1/network data analyse tools.md",
-    "SOC/SOC1/Basic.md"
+    "Work/Entergy/Untitled.md",
+    "Work/Entergy/QC.md",
+    "Work/CG/E.md",
+    "Work/CG/pytania na rozmowę.md",
+    "Work/CG/request.md",
+    "Work/CG/todo.md",
+    "Work/CG/what I do.md",
+    "interviwe preps/preperation.md",
+    "Usefull links and tools/tools and links.md"
   ]
 }
