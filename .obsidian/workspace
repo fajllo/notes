@@ -87,6 +87,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "aef4ce2e4d0d978e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
