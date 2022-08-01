@@ -83,3 +83,22 @@ https://d3fend.mitre.org/dao/artifact/d3f:LocalResourceAccess/ -> miter defend
 
 
 > SOC prime platform 
+
+
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/blt3b9dbc8492637093/60a7f2761df7ea69b75ba460/cropped-SANS-Blue-Square-192x192.png')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">The Ultimate List of SANS Cheat Sheets | SANS Institute</h1>
+		<p class="rich-link-card-description">
+		SANS has a massive list of Cheat Sheets available for quick reference to aid you in your cybersecurity training.
+		</p>
+		<p class="rich-link-href">
+		https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
+		</p>
+	</div>
+</a></div>
+
