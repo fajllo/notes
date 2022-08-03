@@ -97,13 +97,14 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 100,
+    "collapsed": true
   },
-  "active": "e2ea05c64e0f30a5",
+  "active": "aef4ce2e4d0d978e",
   "lastOpenFiles": [
     "Usefull links and tools/tools and links.md",
     "interviwe preps/EY.md",
