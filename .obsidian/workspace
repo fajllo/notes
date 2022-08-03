@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cybrary/inc response/response steps.md",
+            "file": "cybrary/inc response/2 Indicent response planning kit.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cybrary/inc response/response steps.md",
+                "file": "cybrary/inc response/2 Indicent response planning kit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +104,9 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "aef4ce2e4d0d978e",
+  "active": "e2ea05c64e0f30a5",
   "lastOpenFiles": [
+    "cybrary/inc response/1 response steps.md",
     "Usefull links and tools/tools and links.md",
     "interviwe preps/EY.md",
     "Elastic/Hunting Concepts, Methodologies and Techniques/The Pyramid of Pain.md",
@@ -114,7 +115,6 @@
     "Elastic/Cyber Kill chain/Actions on the Objective.md",
     "Elastic/Cyber Kill chain/Command & Control.md",
     "Elastic/Cyber Kill chain/Installation.md",
-    "Elastic/Cyber Kill chain/Exploitation.md",
-    "Elastic/Cyber Kill chain/Delivery.md"
+    "Elastic/Cyber Kill chain/Exploitation.md"
   ]
 }
