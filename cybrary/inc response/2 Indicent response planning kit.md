@@ -13,3 +13,11 @@
 ![[Pasted image 20220804120326.png]]
 
 #Softeware
+![[Pasted image 20220804120636.png]]
+
+#tools:
+![[Pasted image 20220804120733.png]]
+
+#BestPractise
+![[Pasted image 20220804121504.png]]
+i aj
