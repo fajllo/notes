@@ -106,6 +106,8 @@
   },
   "active": "e2ea05c64e0f30a5",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "cybrary/inc response/2 Indicent response planning kit.md",
     "cybrary/inc response/1 response steps.md",
     "Usefull links and tools/tools and links.md",
     "interviwe preps/EY.md",
@@ -113,8 +115,6 @@
     "Elastic/Hunting Concepts, Methodologies and Techniques/Intro'.md",
     "Elastic/Diamond model.md",
     "Elastic/Cyber Kill chain/Actions on the Objective.md",
-    "Elastic/Cyber Kill chain/Command & Control.md",
-    "Elastic/Cyber Kill chain/Installation.md",
-    "Elastic/Cyber Kill chain/Exploitation.md"
+    "Elastic/Cyber Kill chain/Command & Control.md"
   ]
 }
