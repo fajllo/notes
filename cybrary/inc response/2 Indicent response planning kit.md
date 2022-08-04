@@ -20,4 +20,9 @@
 
 #BestPractise
 ![[Pasted image 20220804121504.png]]
-i aj
+#Team
+![[Pasted image 20220804121649.png]]
+![[Pasted image 20220804121925.png]]
+
+![[Pasted image 20220804122045.png]]
+![[Pasted image 20220804122208.png]]
