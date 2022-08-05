@@ -155,3 +155,21 @@ https://media-exp1.licdn.com/dms/document/C561FAQGSIpLusfEKMg/feedshare-document
 	</div>
 </a></div>
 
+
+https://mitre-engenuity.org/cybersecurity/mad/?aad=BAhJIgGBeyJldmVudCI6Imlzc3Vlcl91cmxfY2xpY2siLCJ1cmwiOiJodHRwczovL21pdHJlLWVuZ2VudWl0eS5vcmcvbWFkIiwib3RoZXJfaW5mbyI6Imlzc3Vlcl9tYXJrZXRpbmdfcGFnZSIsIm9yZ2FuaXphdGlvbl9pZCI6NjMzNDR9BjoGRVQ%3D--a232cc9ff39d8067acc3bfa452e968f6799ca131
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://mitre-engenuity.org/cybersecurity/mad/?aad=BAhJIgGBeyJldmVudCI6Imlzc3Vlcl91cmxfY2xpY2siLCJ1cmwiOiJodHRwczovL21pdHJlLWVuZ2VudWl0eS5vcmcvbWFkIiwib3RoZXJfaW5mbyI6Imlzc3Vlcl9tYXJrZXRpbmdfcGFnZSIsIm9yZ2FuaXphdGlvbl9pZCI6NjMzNDR9BjoGRVQ%3D--a232cc9ff39d8067acc3bfa452e968f6799ca131" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://mitre-engenuity.org/wp-content/uploads/2022/05/MELogoNew.png')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">MAD</h1>
+		<p class="rich-link-card-description">
+		Learn more about MITRE ATT&CK Defender™, a training & credentialing program focused on real-world skills to bolster threat-informed defenses.
+		</p>
+		<p class="rich-link-href">
+		https://mitre-engenuity.org/cybersecurity/mad/?aad=BAhJIgGBeyJldmVudCI6Imlzc3Vlcl91cmxfY2xpY2siLCJ1cmwiOiJodHRwczovL21pdHJlLWVuZ2VudWl0eS5vcmcvbWFkIiwib3RoZXJfaW5mbyI6Imlzc3Vlcl9tYXJrZXRpbmdfcGFnZSIsIm9yZ2FuaXphdGlvbl9pZCI6NjMzNDR9BjoGRVQ%3D--a232cc9ff39d8067acc3bfa452e968f6799ca131
+		</p>
+	</div>
+</a></div>
+
