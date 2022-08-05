@@ -102,3 +102,56 @@ https://d3fend.mitre.org/dao/artifact/d3f:LocalResourceAccess/ -> miter defend
 	</div>
 </a></div>
 
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://play.backdoorsandbreaches.com/play_exp" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://play.backdoorsandbreaches.com/favicon.ico')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">B&B Shuffle v2.1+EXPANSION v1.1</h1>
+		<p class="rich-link-card-description">
+		
+		</p>
+		<p class="rich-link-href">
+		https://play.backdoorsandbreaches.com/play_exp
+		</p>
+	</div>
+</a></div>
+
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://www.varonis.com/blog/sysmon-threat-detection-guide#part-iia" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://info.varonis.com/hubfs/Imported_Blog_Media/sysmon-hero.png#keepProtocol')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">Sysmon Threat Analysis Guide</h1>
+		<p class="rich-link-card-description">
+		In my various pentesting experiments, I’ll pretend to be a blue team defender and try to work out the attack. If you have good security eyes, you can search for...
+		</p>
+		<p class="rich-link-href">
+		https://www.varonis.com/blog/sysmon-threat-detection-guide#part-iia
+		</p>
+	</div>
+</a></div>
+
+https://media-exp1.licdn.com/dms/document/C561FAQGSIpLusfEKMg/feedshare-document-pdf-analyzed/0/1658035243032?e=1659571200&v=beta&t=hJ6DQybF-bGzyGLcuH1BGx7kxm3VDrKgjwDaqNtovoI\
+
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://www.youtube.com/watch?v=gSEUnFJuw-s" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://www.youtube.com/embed/gSEUnFJuw-s?feature=oembed')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">Attack Range 2.0 Demo</h1>
+		<p class="rich-link-card-description">
+		A detailed demo of Splunk Attack Range 2.0
+		</p>
+		<p class="rich-link-href">
+		https://www.youtube.com/watch?v=gSEUnFJuw-s
+		</p>
+	</div>
+</a></div>
+

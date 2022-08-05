@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cybrary/inc response/3 mplementing an Incident Response Plan.md",
+            "file": "cybrary/inc response/4 Incident Response Recovery.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cybrary/inc response/3 mplementing an Incident Response Plan.md",
+                "file": "cybrary/inc response/4 Incident Response Recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "e2ea05c64e0f30a5",
   "lastOpenFiles": [
+    "Usefull links and tools/tools and links.md",
+    "cybrary/inc response/3 mplementing an Incident Response Plan.md",
     "cybrary/inc response/2 Indicent response planning kit.md",
     "conflict-files-obsidian-git.md",
     "cybrary/inc response/1 response steps.md",
-    "Usefull links and tools/tools and links.md",
     "interviwe preps/EY.md",
     "Elastic/Hunting Concepts, Methodologies and Techniques/The Pyramid of Pain.md",
     "Elastic/Hunting Concepts, Methodologies and Techniques/Intro'.md",
     "Elastic/Diamond model.md",
-    "Elastic/Cyber Kill chain/Actions on the Objective.md",
-    "Elastic/Cyber Kill chain/Command & Control.md"
+    "Elastic/Cyber Kill chain/Actions on the Objective.md"
   ]
 }
