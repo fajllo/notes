@@ -52,3 +52,4 @@ eather we can use gui tool ftkimager or install dd on windows (is unix native to
 	</div>
 </a></div>
 
+![[Pasted image 20220809132525.png]]
