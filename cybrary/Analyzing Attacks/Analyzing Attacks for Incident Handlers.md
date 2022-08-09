@@ -28,3 +28,8 @@ Analysis is the result of the investigation using legally justifiable methods an
 
 #reporting
 Reporting is the documentation of the examination and analysis of the investigation which includes explanation of the use of tools, description of the analysis of the different data sources, issues and vulnerabilities identified, and recommendations. The examiner will document every step to preserve chain of custody.
+
+
+Imaging the system:
+eather we can use gui tool ftkimager or install dd on windows (is unix native tool)
+'dd if=\\.\e: of="h:\image.dd" --progress bs=1024'
