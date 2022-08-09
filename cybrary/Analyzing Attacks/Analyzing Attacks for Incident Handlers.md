@@ -33,3 +33,22 @@ Reporting is the documentation of the examination and analysis of the investigat
 Imaging the system:
 eather we can use gui tool ftkimager or install dd on windows (is unix native tool)
 'dd if=\\.\e: of="h:\image.dd" --progress bs=1024'
+
+
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://superuser.com/questions/355310/dd-rescue-vs-dcfldd-vs-dd" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://cdn.sstatic.net/Sites/superuser/Img/apple-touch-icon@2.png?v=e869e4459439')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">dd_rescue vs dcfldd vs dd</h1>
+		<p class="rich-link-card-description">
+		What are the main differences between dd_rescue, dcfldd, and dd? In what situations would you use one over the other? Why are there three different yet simliar programs?
+		</p>
+		<p class="rich-link-href">
+		https://superuser.com/questions/355310/dd-rescue-vs-dcfldd-vs-dd
+		</p>
+	</div>
+</a></div>
+
