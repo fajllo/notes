@@ -175,3 +175,21 @@ https://mitre-engenuity.org/cybersecurity/mad/?aad=BAhJIgGBeyJldmVudCI6Imlzc3Vlc
 
 
 https://www.blueteamsacademy.com/top20/
+
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://platform.mosse-institute.com/#/shop" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://platform.mosse-institute.com/static/img/icons/favicon-32x32.png.ico')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">MCSI Online Learning Platform</h1>
+		<p class="rich-link-card-description">
+		
+		</p>
+		<p class="rich-link-href">
+		https://platform.mosse-institute.com/#/shop
+		</p>
+	</div>
+</a></div>
+
