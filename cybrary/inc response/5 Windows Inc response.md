@@ -10,4 +10,4 @@
 10. Verify File Signatures -> sigverif
 11. Identify Recently Added Files ->**dir /a/o-d/p %SystemRoot%\System32\**
 12. Perform Static Analysis on File -> in this case with Strings tool
-13. 
+13. Check Virus Total
