@@ -8,4 +8,6 @@
 8. check host file c:Windows\System32\Drivers\etc\hosts
 9. View running servieces
 10. Verify File Signatures -> sigverif
-11. 
+11. Identify Recently Added Files ->**dir /a/o-d/p %SystemRoot%\System32\**
+12. Perform Static Analysis on File -> in this case with Strings tool
+13. 
