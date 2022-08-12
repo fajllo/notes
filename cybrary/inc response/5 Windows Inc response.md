@@ -11,3 +11,14 @@
 11. Identify Recently Added Files ->**dir /a/o-d/p %SystemRoot%\System32\**
 12. Perform Static Analysis on File -> in this case with Strings tool
 13. Check Virus Total
+
+MiTeC Windows Registry Recovery is one of many tools that can be used by computer forensic examiners to view registry values. The MiTeC Windows Registry Recovery uses a button system to allow you to view some of the most important registry key values.
+
+The SYSTEM, SECURITY, SAM, and SOFTWARE are the registry files that contain many of these key system configuration values. These registry files are located in the Windows\System32\config directory and provide a wealth of information about the configuration of a Windows system. Some of the values we examined in this final section include the following:
+
+-   Installation Date
+-   TCP/IP Settings
+-   User accounts
+-   User SIDs
+-   Services
+-   Startup items
