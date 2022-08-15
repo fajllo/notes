@@ -22,3 +22,13 @@ The SYSTEM, SECURITY, SAM, and SOFTWARE are the registry files that contain many
 -   User SIDs
 -   Services
 -   Startup items
+
+#Registry - > A database within the Windows operating system that records settings related on the machine’s users, installed programs, and other system settings.
+
+#WRR -> Windows Registry Recovery, automatically parses some of the most pertinent information from the Windows registry files.
+
+#SAM -> The Security Accounts Manager file of Windows.
+
+#SYSTEM -> A Windows file that has information about computer profile settings, including services.
+
+#Autopsy -> A free program that can be used to analyze forensic images.
