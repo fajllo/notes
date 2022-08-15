@@ -32,3 +32,12 @@ The SYSTEM, SECURITY, SAM, and SOFTWARE are the registry files that contain many
 #SYSTEM -> A Windows file that has information about computer profile settings, including services.
 
 #Autopsy -> A free program that can be used to analyze forensic images.
+
+There are many places to look for evidence of an intrusion on a Windows system, including the following:
+
+-   Log files
+-   Event viewer files
+-   Registry files
+-   Startup folder
+-   Folders in the path, C:\Windows, C:\Windows\System32
+-   Scheduled Tasks folder
