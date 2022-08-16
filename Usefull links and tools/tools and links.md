@@ -193,3 +193,21 @@ https://www.blueteamsacademy.com/top20/
 	</div>
 </a></div>
 
+
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://techcommunity.microsoft.com/t5/image/serverpage/image-id/376950iE12BEFEF97B19CAD?v=v2')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">Become a Microsoft Defender for Endpoint Ninja</h1>
+		<p class="rich-link-card-description">
+		Last updated: May 18th 2022 Do you want to become a ninja for Microsoft Defender for Endpoint? We can help you get there! We collected content for two roles: “Security Operations (SecOps)” and “Security Administrator (SecAdmin)”. The content is structured into three different knowledge levels, with ...
+		</p>
+		<p class="rich-link-href">
+		https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647
+		</p>
+	</div>
+</a></div>
+
