@@ -8,3 +8,6 @@ The operating system reads and writes data to memory in a system’s RAM. Data i
 
 **Memory Dump And DumpIt**
 DumpIt is a command line program that runs on either a 32- or a 64-bit version of Windows. This tool generates a copy of the system’s physical memory and saves it as a file in the same directory from which the command is run. DumpIt can also be run from a drive letter assigned to a USB drive and be stored on the removable media.
+
+#volatility-2.5.exe -h -> shows us available switches
+volatility-2.5.exe -f <filename> --profile <eg: Win2008 ...  ... >  imageinfo 
