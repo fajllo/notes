@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux/network.md",
+            "file": "cybrary/Malware analysis/Static and Dynamic Malware Analysis.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/network.md",
+                "file": "cybrary/Malware analysis/Static and Dynamic Malware Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +104,9 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "e2ea05c64e0f30a5",
+  "active": "1b58c4df954c9747",
   "lastOpenFiles": [
+    "linux/network.md",
     "Usefull links and tools/tools and links.md",
     "cybrary/memory analysis/memorry analysis.md",
     "cybrary/Analyzing Attacks/Analyzing Attacks for Incident Handlers.md",
@@ -114,7 +115,6 @@
     "cybrary/inc response/4 Incident Response Recovery.md",
     "cybrary/inc response/3 mplementing an Incident Response Plan.md",
     "cybrary/inc response/2 Indicent response planning kit.md",
-    "conflict-files-obsidian-git.md",
-    "cybrary/inc response/1 response steps.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
