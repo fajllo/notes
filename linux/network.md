@@ -19,3 +19,5 @@
 ![[Pasted image 20220715103201.png]]
 
 prefered flags -plant
+
+![[Pasted image 20220816150004.png]]
