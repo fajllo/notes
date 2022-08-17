@@ -21,3 +21,22 @@ jeszcze zmiana planów:
 2. splunk administration
 3. dokumentacja z azura 
 4. linux windows coś tam ogarnąć ->securty related
+
+
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://academy.tcm-sec.com/courses/1547503/lectures/35514648" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://file-uploads.teachablecdn.com/39e6b175a67940d8be0e61054f2b86f1/16227738f7a04481aee2b52accc9470d')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">Whoami & Course Overview</h1>
+		<p class="rich-link-card-description">
+		Learn the state of the art of practical malware analysis ant triage and stop the hackers in their tracks
+		</p>
+		<p class="rich-link-href">
+		https://academy.tcm-sec.com/courses/1547503/lectures/35514648
+		</p>
+	</div>
+</a></div>
+
