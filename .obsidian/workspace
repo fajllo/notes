@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cybrary/Malware analysis/Static and Dynamic Malware Analysis.md",
+            "file": "linux/kali/nmap.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cybrary/Malware analysis/Static and Dynamic Malware Analysis.md",
+                "file": "linux/kali/nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,12 +105,12 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "e2ea05c64e0f30a5",
+  "active": "21274c5cf2332078",
   "lastOpenFiles": [
-    "courses/courses.md",
-    "cybrary/Malware analysis/Static and Dynamic Malware Analysis.md",
-    "linux/network.md",
     "Usefull links and tools/tools and links.md",
+    "cybrary/Malware analysis/Static and Dynamic Malware Analysis.md",
+    "courses/courses.md",
+    "linux/network.md",
     "cybrary/memory analysis/memorry analysis.md",
     "cybrary/Analyzing Attacks/Analyzing Attacks for Incident Handlers.md",
     "cybrary/inc response/5 Windows Inc response.md",
