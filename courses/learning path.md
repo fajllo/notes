@@ -9,6 +9,7 @@ kanban-plugin: basic
 - [ ] burp suit <br>https://app.pluralsight.com/paths/skill/web-security-testing-with-burp-suite
 - [ ] portswinnger academy
 - [ ] Yara rules <br>https://app.pluralsight.com/library/courses/threat-hunting-yara/table-of-contents
+- [ ] powershell<br>https://app.cybrary.it/immersive/13519787/activity/30957
 
 
 ## in progres
