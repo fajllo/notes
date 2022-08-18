@@ -7,11 +7,9 @@
         "id": "e2ea05c64e0f30a5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "linux/kali/nmap.md",
-            "mode": "source",
-            "source": false
+            "file": "courses/learning path.md"
           }
         }
       }
@@ -41,7 +39,7 @@
               "type": "search",
               "state": {
                 "query": "nma",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -49,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/kali/nmap.md",
+                "file": "courses/learning path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +102,9 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "21274c5cf2332078",
+  "active": "e2ea05c64e0f30a5",
   "lastOpenFiles": [
+    "linux/kali/nmap.md",
     "Usefull links and tools/tools and links.md",
     "cybrary/Malware analysis/Static and Dynamic Malware Analysis.md",
     "courses/courses.md",
@@ -115,7 +113,6 @@
     "cybrary/Analyzing Attacks/Analyzing Attacks for Incident Handlers.md",
     "cybrary/inc response/5 Windows Inc response.md",
     "Pasted image 20220527173333.png",
-    "cybrary/inc response/4 Incident Response Recovery.md",
-    "cybrary/inc response/3 mplementing an Incident Response Plan.md"
+    "cybrary/inc response/4 Incident Response Recovery.md"
   ]
 }
