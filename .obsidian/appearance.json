@@ -1,6 +1,6 @@
 {
   "cssTheme": "Blue Topaz",
-  "translucency": false,
+  "translucency": true,
   "theme": "obsidian",
   "baseFontSize": 20
 }
