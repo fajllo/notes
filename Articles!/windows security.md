@@ -1,6 +1,5 @@
 ### Threat Hunting Using Windows Security Log
 
-
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://www.socinvestigation.com/threat-hunting-using-windows-security-log/#" target="_blank">
 	<div class="rich-link-image-container">
 		<div class="rich-link-image" style="background-image: url('https://www.socinvestigation.com/wp-content/uploads/2021/09/Threat-Hunting-Using-Windows-Security-Log.jpg')">
