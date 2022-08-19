@@ -7,9 +7,11 @@
         "id": "e2ea05c64e0f30a5",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "courses/learning path.md"
+            "file": "Articles!/windows security.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/learning path.md",
+                "file": "Articles!/windows security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +104,10 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "e2ea05c64e0f30a5",
+  "active": "1b58c4df954c9747",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-07-19 11.16.23.excalidraw.md",
+    "courses/learning path.md",
     "linux/kali/nmap.md",
     "Usefull links and tools/tools and links.md",
     "cybrary/Malware analysis/Static and Dynamic Malware Analysis.md",
@@ -111,8 +115,6 @@
     "linux/network.md",
     "cybrary/memory analysis/memorry analysis.md",
     "cybrary/Analyzing Attacks/Analyzing Attacks for Incident Handlers.md",
-    "cybrary/inc response/5 Windows Inc response.md",
-    "Pasted image 20220527173333.png",
-    "cybrary/inc response/4 Incident Response Recovery.md"
+    "cybrary/inc response/5 Windows Inc response.md"
   ]
 }
