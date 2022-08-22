@@ -10,6 +10,8 @@ kanban-plugin: basic
 - [ ] portswinnger academy
 - [ ] Yara rules <br>https://app.pluralsight.com/library/courses/threat-hunting-yara/table-of-contents
 - [ ] powershell<br>https://app.cybrary.it/immersive/13519787/activity/30957
+- [ ] linnux https://overthewire.org/wargames/bandit/bandit0.html
+- [ ] linux <br>https://linuxjourney.com/lesson/find-command
 
 
 ## in progres
