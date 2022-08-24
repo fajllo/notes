@@ -7,8 +7,12 @@
         "id": "0b8283ca36c79f5f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Usefull links and tools/aureport.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Usefull links and tools/aureport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,11 +105,11 @@
   },
   "active": "0b8283ca36c79f5f",
   "lastOpenFiles": [
+    "Usefull links and tools/tools and links.md",
     "courses/learning path.md",
     "Articles!/windows security.md",
     "Excalidraw/Drawing 2022-07-19 11.16.23.excalidraw.md",
     "linux/kali/nmap.md",
-    "Usefull links and tools/tools and links.md",
     "cybrary/Malware analysis/Static and Dynamic Malware Analysis.md",
     "courses/courses.md",
     "linux/network.md",
