@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e2ea05c64e0f30a5",
+        "id": "0b8283ca36c79f5f",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "courses/learning path.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -75,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/learning path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,13 +96,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346
+    "width": 190
   },
-  "active": "e2ea05c64e0f30a5",
+  "active": "0b8283ca36c79f5f",
   "lastOpenFiles": [
+    "courses/learning path.md",
     "Articles!/windows security.md",
     "Excalidraw/Drawing 2022-07-19 11.16.23.excalidraw.md",
-    "courses/learning path.md",
     "linux/kali/nmap.md",
     "Usefull links and tools/tools and links.md",
     "cybrary/Malware analysis/Static and Dynamic Malware Analysis.md",
