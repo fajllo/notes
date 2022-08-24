@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Usefull links and tools/grep.md",
+            "file": "Usefull links and tools/aureport.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Usefull links and tools/grep.md",
+                "file": "Usefull links and tools/aureport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "0b8283ca36c79f5f",
   "lastOpenFiles": [
+    "Usefull links and tools/grep.md",
     "Usefull links and tools/aureport.md",
     "Usefull links and tools/tools and links.md",
     "courses/learning path.md",
@@ -113,7 +114,6 @@
     "linux/kali/nmap.md",
     "cybrary/Malware analysis/Static and Dynamic Malware Analysis.md",
     "courses/courses.md",
-    "linux/network.md",
-    "cybrary/memory analysis/memorry analysis.md"
+    "linux/network.md"
   ]
 }
