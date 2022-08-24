@@ -12,3 +12,6 @@ authrntication report eg:
 aureport -if audit.log  -au
 
 In addition you can use ausearch suntax is very simmilar just use --help 
+#important
+you can use <u>*-i*</u> switch to display hex as human readable 
+

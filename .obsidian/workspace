@@ -106,6 +106,7 @@
   "active": "0b8283ca36c79f5f",
   "lastOpenFiles": [
     "Usefull links and tools/tools and links.md",
+    "Usefull links and tools/aureport.md",
     "courses/learning path.md",
     "Articles!/windows security.md",
     "Excalidraw/Drawing 2022-07-19 11.16.23.excalidraw.md",
@@ -113,7 +114,6 @@
     "cybrary/Malware analysis/Static and Dynamic Malware Analysis.md",
     "courses/courses.md",
     "linux/network.md",
-    "cybrary/memory analysis/memorry analysis.md",
-    "cybrary/Analyzing Attacks/Analyzing Attacks for Incident Handlers.md"
+    "cybrary/memory analysis/memorry analysis.md"
   ]
 }
