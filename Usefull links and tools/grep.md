@@ -8,6 +8,8 @@ eg: **grep test**-> will display only output lines witch inclide word 'test'
 we can exclude multiple words with:
 *grep -vE 'test|another|thirs'* -> this words will be excluded from the output
 
+use *-A 10* to list addiotional 10 lines
+
 
 ###### log noise filter
 cat ausearchaudit.txt| grep 192.168.4.155 | grep -vE 'USER_AUTH|USER_LOGIN|CRED_ACQ|USER_ERR|USER_ACCT|USER_END|USER_START' | head
