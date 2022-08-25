@@ -7,9 +7,11 @@
         "id": "0b8283ca36c79f5f",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "courses/learning path.md"
+            "file": "DLP/DLP.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nma",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/learning path.md",
+                "file": "DLP/DLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +103,17 @@
     "direction": "horizontal",
     "width": 190
   },
-  "active": "0b8283ca36c79f5f",
+  "active": "1b58c4df954c9747",
   "lastOpenFiles": [
+    "interviwe preps/preperation.md",
+    "courses/learning path.md",
     "Usefull links and tools/grep.md",
     "Usefull links and tools/aureport.md",
     "Usefull links and tools/tools and links.md",
-    "courses/learning path.md",
     "Articles!/windows security.md",
     "Excalidraw/Drawing 2022-07-19 11.16.23.excalidraw.md",
     "interviwe preps/linux/kali/nmap.md",
     "cybrary/Malware analysis/Static and Dynamic Malware Analysis.md",
-    "courses/courses.md",
-    "interviwe preps/linux/network.md"
+    "courses/courses.md"
   ]
 }
