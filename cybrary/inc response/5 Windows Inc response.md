@@ -41,3 +41,9 @@ There are many places to look for evidence of an intrusion on a Windows system, 
 -   Startup folder
 -   Folders in the path, C:\Windows, C:\Windows\System32
 -   Scheduled Tasks folder
+
+
+====windows registry====
+
+![[Pasted image 20220825145047.png]]
+![[Pasted image 20220825145206.png]]
