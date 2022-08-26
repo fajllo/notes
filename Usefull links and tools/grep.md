@@ -16,3 +16,8 @@ cat ausearchaudit.txt| grep 192.168.4.155 | grep -vE 'USER_AUTH|USER_LOGIN|CRED_
 
 **leaves proctitle tty and execve** -> command and processes run on the machine 
 
+``` sh
+cat access.log| grep /wp-login.php?itsec-hb-token=adminlogin | grep -o -E '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' | sort | uniq
+```
+
+windows open ssh 
