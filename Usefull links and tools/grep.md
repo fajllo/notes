@@ -21,3 +21,8 @@ cat access.log| grep /wp-login.php?itsec-hb-token=adminlogin | grep -o -E '[0-9]
 ```
 
 windows open ssh 
+``` sh
+cat sshlog.log | grep  192.168.1.17 | grep password | grep Accepted
+
+
+```
