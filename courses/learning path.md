@@ -12,6 +12,7 @@ kanban-plugin: basic
 - [ ] powershell<br>https://app.cybrary.it/immersive/13519787/activity/30957
 - [ ] linnux https://overthewire.org/wargames/bandit/bandit0.html
 - [ ] linux <br>https://linuxjourney.com/lesson/find-command
+- [ ] malware <br>https://academy.tcm-sec.com/courses/1547503/lectures/35514650
 
 
 ## in progres
