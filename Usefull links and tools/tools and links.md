@@ -210,4 +210,20 @@ https://www.blueteamsacademy.com/top20/
 		</p>
 	</div>
 </a></div>
+###### Magic number
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://www.ibm.com/support/pages/what-magic-number" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://www.ibm.com/support/pages/core/misc/favicon.ico')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">What is a magic number?</h1>
+		<p class="rich-link-card-description">
+		
+		</p>
+		<p class="rich-link-href">
+		https://www.ibm.com/support/pages/what-magic-number
+		</p>
+	</div>
+</a></div>
 
