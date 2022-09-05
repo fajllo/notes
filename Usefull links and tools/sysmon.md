@@ -15,3 +15,37 @@
 	</div>
 </a></div>
 
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://cqureacademy.com/blog/hacks/sysmon-configuration-file" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://cqureacademy.com/wp-content/uploads/2017/11/hacksweekly23-thumbnail.jpg')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">Building A Perfect Sysmon Configuration File | CQURE Academy</h1>
+		<p class="rich-link-card-description">
+		In this episode of CQURE Hacks Weekly, you'll learn how to build Sysmon Configuration File in a way that makes Sysmon do exactly what you need from it.
+		</p>
+		<p class="rich-link-href">
+		https://cqureacademy.com/blog/hacks/sysmon-configuration-file
+		</p>
+	</div>
+</a></div>
+
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://cqureacademy.com/blog/hacks/sysmon-configuration-file" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://cqureacademy.com/wp-content/uploads/2017/11/hacksweekly23-thumbnail.jpg')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">Building A Perfect Sysmon Configuration File | CQURE Academy</h1>
+		<p class="rich-link-card-description">
+		In this episode of CQURE Hacks Weekly, you'll learn how to build Sysmon Configuration File in a way that makes Sysmon do exactly what you need from it.
+		</p>
+		<p class="rich-link-href">
+		https://cqureacademy.com/blog/hacks/sysmon-configuration-file
+		</p>
+	</div>
+</a></div>
+
