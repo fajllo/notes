@@ -35,3 +35,20 @@
 	</div>
 </a></div>
 
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://www.magnetforensics.com/blog/artifact-profile-recycle-bin/" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://www.magnetforensics.com/wp-content/uploads/2015/02/V7.png')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">Digital Forensics: Artifact Profile - Recycle Bin - Magnet Forensics</h1>
+		<p class="rich-link-card-description">
+		The Windows Recycle Bin contains files that have been deleted by the user, but not yet purged from the system.
+		</p>
+		<p class="rich-link-href">
+		https://www.magnetforensics.com/blog/artifact-profile-recycle-bin/
+		</p>
+	</div>
+</a></div>
+
