@@ -15,3 +15,23 @@
 	</div>
 </a></div>
 
+![[Pasted image 20220905141241.png]]
+
+
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://www.youtube.com/watch?v=Gkir-wGqG2c&t=10s&ab_channel=13Cubed" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://www.youtube.com/embed/Gkir-wGqG2c?feature=oembed')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">Recycle Bin Forensics</h1>
+		<p class="rich-link-card-description">
+		As a continuation of the "Introduction to Windows Forensics" series, this video introduces Recycle Bin Forensics. From Windows 95 to Windows 10, the history ...
+		</p>
+		<p class="rich-link-href">
+		https://www.youtube.com/watch?v=Gkir-wGqG2c&t=10s&ab_channel=13Cubed
+		</p>
+	</div>
+</a></div>
+
