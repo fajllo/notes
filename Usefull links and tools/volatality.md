@@ -15,3 +15,20 @@
 	</div>
 </a></div>
 
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://samsclass.info/121/proj/p4-Volatility.htm" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://samsclass.info/favicon.ico')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">CNIT 121 Project 4: Analyzing a RAM Image with Volatility	(15 Points)</h1>
+		<p class="rich-link-card-description">
+		
+		</p>
+		<p class="rich-link-href">
+		https://samsclass.info/121/proj/p4-Volatility.htm
+		</p>
+	</div>
+</a></div>
+
