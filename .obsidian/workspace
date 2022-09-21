@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFIR/SANS.md",
+            "file": "Usefull links and tools/grep.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFIR/SANS.md",
+                "file": "Usefull links and tools/grep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
   },
   "active": "0b8283ca36c79f5f",
   "lastOpenFiles": [
+    "DFIR/SANS.md",
     "DFIR/DLL injection.md",
     "Untitled.md",
     "Usefull links and tools/GitTools.md",
@@ -112,7 +113,6 @@
     "wireshark 🦈/Progrss.md",
     "wireshark 🦈.md",
     "Usefull links and tools/crunch.md",
-    "Tips/hashcat.md",
-    "Usefull links and tools/Powershell.md"
+    "Tips/hashcat.md"
   ]
 }

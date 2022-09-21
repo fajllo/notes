@@ -10,6 +10,10 @@ we can exclude multiple words with:
 
 use *-A 10* to list addiotional 10 lines
 
+```sh
+grep -iRl "co szukamy" 2>/dev/null
+```
+
 
 ###### log noise filter
 cat ausearchaudit.txt| grep 192.168.4.155 | grep -vE 'USER_AUTH|USER_LOGIN|CRED_ACQ|USER_ERR|USER_ACCT|USER_END|USER_START' | head
@@ -26,3 +30,4 @@ cat sshlog.log | grep  192.168.1.17 | grep password | grep Accepted
 
 
 ```
+
