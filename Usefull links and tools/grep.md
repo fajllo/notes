@@ -29,5 +29,25 @@ windows open ssh
 cat sshlog.log | grep  192.168.1.17 | grep password | grep Accepted
 
 
+
 ```
+
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://explainshell.com/explain?cmd=grep+-oE" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://explainshell.com/favicon.ico')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">explainshell.com - grep -oE</h1>
+		<p class="rich-link-card-description">
+		
+		</p>
+		<p class="rich-link-href">
+		https://explainshell.com/explain?cmd=grep+-oE
+		</p>
+	</div>
+</a></div>
+
+
 
