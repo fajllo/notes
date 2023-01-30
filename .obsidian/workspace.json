@@ -11,32 +11,15 @@
             "id": "6fbe5460e1f65023",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "26f0222af2a510bb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
-          },
-          {
-            "id": "858667a61484c00e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
+                "file": "securityscreenshots/screenshots.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218
+    "width": 361
   },
   "right": {
     "id": "892a94de73834f04",
@@ -102,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "securityscreenshots/screenshots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +123,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "858667a61484c00e",
+  "active": "6fbe5460e1f65023",
   "lastOpenFiles": [
     "letsdefende/Introduction to Malware Analysis.md",
     "letsdefende/Incident Response on Windows.md",
