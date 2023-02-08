@@ -44,9 +44,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4585f25cca2bd8d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEH/footprinting and reconesans.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning path/learning path.md",
+                "file": "CEH/footprinting and reconesans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,8 +163,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ea3f1373de5f6832",
+  "active": "4585f25cca2bd8d8",
   "lastOpenFiles": [
+    "learning path/learning path.md",
     "Untitled 1.md",
     "securityscreenshots/screenshots.md",
     "letsdefende/Introduction to Malware Analysis.md",
@@ -160,7 +174,6 @@
     "Usefull links and tools/grep.md",
     "DFIR/SANS.md",
     "Untitled.md",
-    "Usefull links and tools/GitTools.md",
-    "Usefull links and tools/Nuclei.md"
+    "Usefull links and tools/GitTools.md"
   ]
 }
