@@ -13,8 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "securityscreenshots/screenshots.md",
+                "file": "learning path/learning path.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f8022f6c72c05a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Usefull links and tools/santoku.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -59,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CEH/footprinting and reconesans.md",
+                "file": "Usefull links and tools/santoku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,11 +178,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1b58c4df954c9747",
+  "active": "9f8022f6c72c05a7",
   "lastOpenFiles": [
     "learning path/learning path.md",
-    "Untitled 1.md",
     "securityscreenshots/screenshots.md",
+    "Untitled 1.md",
     "letsdefende/Introduction to Malware Analysis.md",
     "letsdefende/Incident Response on Windows.md",
     "DFIR/DLL injection.md",
